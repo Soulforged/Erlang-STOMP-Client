@@ -7,3 +7,5 @@ doc/edoc-info
 doc/*.png
 *.beam
 .eunit/*
+_build/
+rebar.lock
